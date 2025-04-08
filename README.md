@@ -26,7 +26,6 @@ Even though I started with zero knowledge, I built a complete dashboard that inc
   - Average GPA
   - Attendance %
   - Consistency Score (based on standard deviation of study hours)
-  - GPA Delta (change compared to previous semester)
   
 - **GPA Trend Chart** – Line chart showing GPA progression over semesters
 
